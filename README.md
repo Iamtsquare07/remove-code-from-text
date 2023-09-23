@@ -1,2 +1,2 @@
-# remove-code-from-text
-This tool format text neatly and remove all code elements leaving just text
+# Remove code from text v1.0.0
+This tool format text neatly and remove all code from your text leaving just text so you can paste safely anywhere.
